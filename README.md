@@ -1,12 +1,19 @@
-# capstone_design_HOUSE
-
-[![Video Label](http://img.youtube.com/vi/CNZ4e0TAvzI/0.jpg)](https://youtu.be/CNZ4e0TAvzI)
-<br>
+# HOUSE
+세종대 2021 Capstone design의 개발 과제입니다.<br>
+과제의 주제: 딥러닝 활용한 개발
 
 
 ## 개발 목표
 사용자의 손을 카메라로 인식해 손의 위치에 따라 마우스 커서를 제어하고<br>
 손 모양과 제스처를 인식해 마우스와 키보드 이벤트를 발생시키는 프로그램을 제작
+
+
+최종 시연 및 발표 영상<br>
+[![Video Label](http://img.youtube.com/vi/CNZ4e0TAvzI/0.jpg)](https://youtu.be/CNZ4e0TAvzI)
+<br>
+
+
+
 
 ## 사용 라이브러리
 MediaPipie, OpenCV, 
@@ -16,7 +23,7 @@ threading, scikit-learn
 
 ## 기능 소개
 - 전체 보고서 모음 드라이브: https://drive.google.com/drive/folders/1i1EW2dy0E8alNO2E0Zsg4XWU2eOSVCRe?usp=sharing
-- 최종 보고서 참조: https://drive.google.com/file/d/1GTmPlDocHdjWcaZAD34KrkwLkV-7Xnyp/view?usp=sharing
+- 최종 보고서: https://drive.google.com/file/d/1GTmPlDocHdjWcaZAD34KrkwLkV-7Xnyp/view?usp=sharing
 1. 커서 제어: 손의 움직임에 따라 커서를 제어
 2. 화면 전환: 해당 제스처를 인식하여 'ALT+TAB' 활성화 <br>
 ![image](https://user-images.githubusercontent.com/73781215/189952767-965fcac1-116e-4343-82ad-76ad4a909e55.png)
