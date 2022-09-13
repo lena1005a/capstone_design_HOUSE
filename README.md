@@ -15,7 +15,8 @@ mouse, pycaw, PyQt5,
 threading, scikit-learn
 
 ## 기능 소개
-- 최종 보고서 참조(Wiki)
+- 전체 보고서 모음 드라이브: https://drive.google.com/drive/folders/1i1EW2dy0E8alNO2E0Zsg4XWU2eOSVCRe?usp=sharing
+- 최종 보고서 참조: https://drive.google.com/file/d/1GTmPlDocHdjWcaZAD34KrkwLkV-7Xnyp/view?usp=sharing
 1. 커서 제어: 손의 움직임에 따라 커서를 제어
 2. 화면 전환: 해당 제스처를 인식하여 'ALT+TAB' 활성화 <br>
 ![image](https://user-images.githubusercontent.com/73781215/189952767-965fcac1-116e-4343-82ad-76ad4a909e55.png)
